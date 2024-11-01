@@ -1,3 +1,3 @@
 function saludar(){
-    console.log("Hola");
+    console.log("Nuevo Hola");
 }
